@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 9756937b72bd0a24eb76299d3a180785
+timeCreated: 1520140206
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arrowHead1
+    100002: arrowHead2
+    100004: arrowHead3
+    100006: Atom1
+    100008: Atom2
+    100010: bend1Handle
+    100012: //RootNode
+    100014: pCube1
+    100016: pCube1 1
+    100018: pCube10
+    100020: pCube11
+    100022: pCube12
+    100024: pCube2
+    100026: pCube2 1
+    100028: pCube3
+    100030: pCube3 1
+    100032: pCube4
+    100034: pCube4 1
+    100036: pCube5
+    100038: pCube5 1
+    100040: pCube6
+    100042: pCube6 1
+    100044: pCube7
+    100046: pCube7 1
+    100048: pCube8
+    100050: pCube8 1
+    100052: pCube9
+    100054: pCube9 1
+    100056: rod1
+    100058: transform1
+    100060: transform1 1
+    100062: transform10
+    100064: transform11
+    100066: transform12
+    100068: transform13
+    100070: transform14
+    100072: transform2
+    100074: transform2 1
+    100076: transform3
+    100078: transform3 1
+    100080: transform4
+    100082: transform4 1
+    100084: transform5
+    100086: transform5 1
+    100088: transform6
+    100090: transform6 1
+    100092: transform7
+    100094: transform7 1
+    100096: transform8
+    100098: transform8 1
+    100100: transform9
+    100102: transform9 1
+    400000: arrowHead1
+    400002: arrowHead2
+    400004: arrowHead3
+    400006: Atom1
+    400008: Atom2
+    400010: bend1Handle
+    400012: //RootNode
+    400014: pCube1
+    400016: pCube1 1
+    400018: pCube10
+    400020: pCube11
+    400022: pCube12
+    400024: pCube2
+    400026: pCube2 1
+    400028: pCube3
+    400030: pCube3 1
+    400032: pCube4
+    400034: pCube4 1
+    400036: pCube5
+    400038: pCube5 1
+    400040: pCube6
+    400042: pCube6 1
+    400044: pCube7
+    400046: pCube7 1
+    400048: pCube8
+    400050: pCube8 1
+    400052: pCube9
+    400054: pCube9 1
+    400056: rod1
+    400058: transform1
+    400060: transform1 1
+    400062: transform10
+    400064: transform11
+    400066: transform12
+    400068: transform13
+    400070: transform14
+    400072: transform2
+    400074: transform2 1
+    400076: transform3
+    400078: transform3 1
+    400080: transform4
+    400082: transform4 1
+    400084: transform5
+    400086: transform5 1
+    400088: transform6
+    400090: transform6 1
+    400092: transform7
+    400094: transform7 1
+    400096: transform8
+    400098: transform8 1
+    400100: transform9
+    400102: transform9 1
+    2100000: Atom
+    2100002: rod
+    2100004: lambert4
+    2300000: arrowHead3
+    2300002: Atom1
+    2300004: Atom2
+    2300006: rod1
+    3300000: arrowHead3
+    3300002: Atom1
+    3300004: Atom2
+    3300006: rod1
+    4300000: Atom1
+    4300002: Atom2
+    4300004: rod1
+    4300006: arrowHead3
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
