@@ -5,11 +5,16 @@ using UnityEngine;
 
 
 public class toggleRotation : MonoBehaviour {
-    public bool spinQ = false;
+    public bool spinQ = true;
     // Use this for initialization
     void Start() {
+        if (spinQ == true)
+        {
 
-        
+            transform.Rotate(Vector3.up * 15 * Time.deltaTime);
+
+        }
+
 
 
     }
@@ -19,17 +24,13 @@ public class toggleRotation : MonoBehaviour {
         if (spinQ == true)
     {
 
-            transform.Rotate(Vector3.up * 5 * Time.deltaTime);
+            transform.Rotate(Vector3.up * 15 * Time.deltaTime);
 
         }
 
 
     }
 
-    public void Toggle()
-    {
-        spinQ = !spinQ;
-    }
     public void enter() {
         spinQ = false;
                             }
